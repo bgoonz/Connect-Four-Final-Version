@@ -1,10 +1,4 @@
-/* TO-DO!!
-    New Game - hide board, set starting turn, reset board.
--   Something to keep track of the turn/ who's turn it is
-    check full column
-    check winner
-    check tie
-*/
+
 import { Game, CurrentPlayer } from './game.js';
 import { GameJsonSerializer, GameJsonDeSerializer } from './save-state.js';
 
