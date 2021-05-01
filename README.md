@@ -8,4 +8,4 @@
 
 
 
-![codefactor](https://www.codefactor.io/repository/github/bgoonz/connect-four-final-version/badge/master)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c0712cdc-ccb3-4edc-8516-17824b8d76dc/deploy-status)](https://app.netlify.com/sites/bgoonzconnekt4/deploys)
