@@ -2,7 +2,7 @@ import { Column } from "./column.js";
 import { ColumnWinInspector } from "./column-win.js";
 import { RowWinInspector } from "./row-win.js";
 import { DiagonalWinInspector } from "./diagonal-win.js";
-
+//main
 export class Game {
     constructor(player1, player2) {
         this.player1 = player1;
