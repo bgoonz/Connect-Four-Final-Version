@@ -2,7 +2,7 @@ export class GameJsonSerializer {
     constructor(game) {
         this.game = game;
     }
-
+//state
     serialize() {
         // let currentIndexes = [
         //     [1, 2, 3, 4, 5],
