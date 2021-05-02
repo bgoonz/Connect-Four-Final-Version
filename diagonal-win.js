@@ -2,7 +2,7 @@ export class DiagonalWinInspector {
     constructor(columns) {
         this.column = columns;
     }
-
+//hi
     /*
         [*][*][*][*]
         [*][*][*][*]
