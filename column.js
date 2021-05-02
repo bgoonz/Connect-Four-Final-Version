@@ -1,4 +1,4 @@
-
+//col class
 
 export class Column {
     constructor(columnSquares, currentColor) {
