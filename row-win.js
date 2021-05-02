@@ -1,3 +1,5 @@
+//Detect row win
+
 export class RowWinInspector {
     constructor(columns) {
         this.column = columns;
