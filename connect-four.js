@@ -11,7 +11,7 @@ if (localStorage.getItem("data") !== null) {
 
 
 }
-
+//main
 let updateUI = () => {
     if (!game) {
         document
